@@ -14,7 +14,7 @@ export function Header() {
         <div className="flex justify-between items-center h-20">
           <Link href="/" className="flex items-center group">
             <img 
-              src="/images/logo.png" 
+              src="https://i.imgur.com/bNSIi2C.jpeg" 
               alt="Atakum Bilişim Derneği" 
               className="h-12 w-auto group-hover:scale-105 transition-transform duration-200"
             />
